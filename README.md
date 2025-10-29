@@ -1,4 +1,4 @@
-# MediMotion_Streamlit
+# MediMotion
 
 Local Streamlit web app for pose tracking, feedback and PDF report generation.
 
