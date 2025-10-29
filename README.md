@@ -8,7 +8,6 @@ Local Streamlit web app for pose tracking, feedback and PDF report generation.
 3. `streamlit run app.py`
 
 ## Features
-- Signup & Login (SQLite + bcrypt)
 - Live webcam pose detection (MediaPipe via streamlit-webrtc)
 - Joint angles displayed side-by-side with annotated video
 - Rule-based feedback generation
